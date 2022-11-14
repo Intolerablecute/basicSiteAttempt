@@ -24,6 +24,7 @@ ul {
   }
 
   img {
-    position: absolute;
-    clip-path: rectangle(80%);
+    width: 90%;
+    height: 100px;
+    object-fit: none;
   }
