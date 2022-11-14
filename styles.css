@@ -20,5 +20,10 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: rgb(110, 30, 215);
+    background-color: rgb(29, 244, 158);
+  }
+
+  img {
+    position: absolute;
+    clip: rect(0px,60px,200px,0px);
   }
