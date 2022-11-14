@@ -1,3 +1,10 @@
+<head>
+
+</head>
+
+<main>
 <div>
-  Something silly
+  <p>Something silly</p>
+  
 </div>
+</main>
