@@ -1,7 +1,13 @@
 div {
   display: block;
   width: 90%;
+  margin: auto;
 
+}
+
+p {
+  display: block;
+  margin: auto;
 }
 
 ul {
