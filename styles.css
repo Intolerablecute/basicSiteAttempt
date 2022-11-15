@@ -14,12 +14,14 @@ div {
   display: block;
   width: 90%;
   margin: auto;
+  text-align: center;
 
 }
 
 p {
   margin: auto;
   margin-bottom: 15px;
+  text-align: center;
 }
 
 .navBar {
