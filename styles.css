@@ -30,11 +30,11 @@ p {
     background-color: rgb(110, 30, 215);
   }
   
-li .navBar{
+.navBar li {
     float: left;
   }
   
-li a .navBar{
+.navBar li a {
     display: block;
     color: white;
     text-align: center;
@@ -42,7 +42,7 @@ li a .navBar{
     text-decoration: none;
   }
   
-li a:hover .navBar{
+.navBar li a:hover {
   background-color: rgb(29, 244, 158);
 }
 
