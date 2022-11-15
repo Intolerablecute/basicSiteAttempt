@@ -22,7 +22,7 @@ p {
   margin: auto;
 }
 
-ul {
+.navBar {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -30,11 +30,11 @@ ul {
     background-color: rgb(110, 30, 215);
   }
   
-li {
+li .navBar{
     float: left;
   }
   
-li a {
+li a .navBar{
     display: block;
     color: white;
     text-align: center;
@@ -42,7 +42,7 @@ li a {
     text-decoration: none;
   }
   
-li a:hover {
+li a:hover .navBar{
   background-color: rgb(29, 244, 158);
 }
 
