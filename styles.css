@@ -40,3 +40,23 @@ ul {
     height: 100px;
     object-fit: cover;
   }
+
+  .cropped-swim {
+    width: var(--image-size);
+    height: calc(var(--image-size) / 2);
+  
+    font-size: 12.5em;
+    font-weight: bold;
+    text-align: center;
+    line-height: calc(var(--image-size) / 2);
+  
+    background-image: "images/swim.jpeg";
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+
+  }
